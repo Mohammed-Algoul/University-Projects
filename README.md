@@ -1,2 +1,2 @@
 # University-Projects
-Collection of my university projects and assignments in Artificial Intelligence, Data Analysis, Mobile Development, and Software Engineering.
+A collection of my university projects, assignments, and practical work completed during my studies in Intelligent Systems and Computer Engineering.
