@@ -87,7 +87,7 @@ This project helped me understand:
 
 The following image shows the complete PLC ladder logic implementation.
 
-![Traffic Light Ladder](traffic-light-ladder.png)
+![Water Tank Control](Water-Tank-Control.png.png)
 
 ---
 
