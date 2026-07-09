@@ -77,6 +77,19 @@ Through this project I learned:
 - Safety interlocking techniques
 
 ---
+## Ladder Logic
+
+The ladder logic implementation is shown below.
+
+### Part 1
+
+![Ladder Part 1](images/ladder_part1.png.png)
+
+### Part 2
+
+![Ladder Part 2](images/ladder_part2.png.png)
+
+
 
 ## Author
 
