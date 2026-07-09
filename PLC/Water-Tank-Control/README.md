@@ -83,6 +83,12 @@ This project helped me understand:
 - Water level management
 - Industrial control system design
 
+## Ladder Logic
+
+The following image shows the complete PLC ladder logic implementation.
+
+![Traffic Light Ladder](traffic-light-ladder.png)
+
 ---
 
 ## Author
